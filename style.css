@@ -26,7 +26,7 @@ p{
 }
 img{
     max-width: 400px;
-    height: auto;
+    max-height: 300px;
 }
 img:hover {
   /* Aplique os efeitos desejados aqui */
